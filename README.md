@@ -34,19 +34,19 @@ pip install -r requirements.txt
 ```
 ## Features
 
-•	Implementation of GPT with optimized attention and normalization layers using Triton.
-•	Enhanced performance on GPU computations.
-•	Easy integration with existing PyTorch models.
+- Implementation of GPT with optimized attention and normalization layers using Triton.
+- Enhanced performance on GPU computations.
+- Easy integration with existing PyTorch models.
 
 ## License
 
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Credits
-•	Triton programming language and tools (https://triton-lang.org)
-•	OpenAI for the GPT model architecture.
-•   Andrej Kapathy nanoGPT implemetation.
-•   Tunadoable Triton tutotials.
+- Triton programming language and tools (https://triton-lang.org)
+- OpenAI for the GPT model architecture.
+- Andrej Kapathy nanoGPT implemetation.
+- Tunadoable Triton tutotials.
 
 
 
